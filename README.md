@@ -1,1 +1,1 @@
-# Unityで作成した音ゲー with Kinect
+# Unityで作成した音ゲー with Kinect v1
